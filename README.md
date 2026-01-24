@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rezn1r</h1>
 <h3 align="center">A Minecraft Add-On Developer and Discord Bot Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rezn1r&label=Profile%20views&color=0e75b6&style=flat-square" alt="rezn1r" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=rezn1r&label=Profile%20views&color=0e75b6&style=flat-square" alt="rezn1r" /> </p>
 
 - 🔭 I’m currently working on [MCBot](https://github.com/MCBot-Team)
 

@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rezn1r&label=Profile%20views&color=0e75b6&style=flat" alt="rezn1r" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rezn1r" alt="rezn1r" /></a> </p>
-
 - 🔭 I’m currently working on [MCBot](https://github.com/MCBot-Team)
 
 - 🌱 I’m currently learning **Astro, React**

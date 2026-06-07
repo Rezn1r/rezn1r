@@ -1,33 +1,43 @@
-<h1 align="center">Rezn1r</h1>
-<p align="center">
+# About Me
+Electronics and software enthusiast working on Arduino-based hardware projects and full-stack development (frontend + backend).<br>
+I build Minecraft Bedrock mods and add-ons.<br>
+I use Arch BTW.
 
-<h3 align="center">Minecraft Add-On Developer • Discord Bot Developer</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,astro,go,linux,bash,html,css,tailwind,mongodb,mysql,sqlite,nginx,git" />
-</p>
+---
 
+# Stats
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=rezn1r&theme=github-dark&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api?username=rezn1r&show_icons=true&theme=github_dark&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezn1r&layout=compact&theme=github_dark&hide_border=true" height="165" />
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rezn1r&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
-</p>
-</p>
+![](https://github-readme-stats.shion.dev/api?username=Rezn1r&theme=dark&hide_border=true&include_all_commits=true&count_private=false)
 
-## About Me
+![](https://streak-stats.demolab.com/?user=Rezn1r&theme=dark&hide_border=true)
 
-- Currently building **MCBot**
-- Learning **Astro** and **React**
-- Ask me about **Python, JavaScript, Bash**
-- Focused on **Minecraft Bedrock Add-Ons** and **automation tools**
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Rezn1r&theme=dark&hide_border=true&layout=compact)
 
-## Contact
+</div>
 
-- **Email:** rezn1r@proton.me  
-- **Discord:** @Rezn1r  
-- **GitHub:** https://github.com/Rezn1r  
-- **X (Twitter):** https://x.com/Rezn1rMC
+---
 
+# Tech Stack
+- Arduino / Embedded Systems  
+- HTML, CSS, JavaScript, TypeScript  
+- Node.js, Express, FastAPI  
+- Python, Go  
+- Next.js, TailwindCSS  
+- SQL (MySQL, SQLite), Redis  
+- Linux (Arch)
+
+---
+
+# Other
+- Minecraft Bedrock Add-on Development  
+- Backend API development  
+- Frontend UI development  
+- Linux system usage and scripting  
+
+---
+
+# Contact
+Instagram: https://instagram.com/Rezn1r  
+X: https://x.com/Rezn1rMC  
+Email: mailto:rezn1r@proton.me

@@ -39,5 +39,6 @@ I work across hardware and software, from embedded systems to web applications.
 
 # Contact
 - Instagram: https://instagram.com/Rezn1r  
-- X: https://x.com/Rezn1rMC  
+- X: https://x.com/Rezn1rMC
+- Discord: @Rezn1r
 - Email: mailto:rezn1r@proton.me

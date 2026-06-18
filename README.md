@@ -1,4 +1,6 @@
-# About Me
+# About Me   
+ <img src="https://komarev.com/ghpvc/?username=Rezn1r&label=Profile%20views&color=ff0038&style=flat-square" alt="Profile Views" />
+
 i make websites and apps (i guess)
 
 ---

@@ -1,7 +1,5 @@
 # About Me
-Electronics and software enthusiast working on Arduino-based hardware projects and full-stack development (frontend + backend).<br>
-I build Minecraft Bedrock mods and add-ons focused on gameplay.<br>
-I work across hardware and software, from embedded systems to web applications.
+i make websites and apps (i guess)
 
 ---
 
